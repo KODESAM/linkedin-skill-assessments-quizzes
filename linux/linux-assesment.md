@@ -604,7 +604,7 @@ isse letter drift problem, mentionned here https://access.redhat.com/discussions
 
 ### Q74. What do you need to do before you can perform SSH passwordless logins?
 
-- [ ] Genetare RSA or DSA key pairs using ssh-keygen.
+- [x] Genetare RSA or DSA key pairs using ssh-keygen.
 - [ ] Change the remote user's password.
 - [ ] Create a local SSL certificate.
 - [ ] Change the remote SSH configure to allow it.
@@ -621,4 +621,4 @@ isse letter drift problem, mentionned here https://access.redhat.com/discussions
 - [ ] EREs can match the groups.
 - [ ] EREs support occurrence operators.
 - [ ] ERE's support alternation.
-- [ ] only the syntax differs.
+- [x] only the syntax differs.
